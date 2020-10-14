@@ -221,7 +221,6 @@ python3 main.py --dataset_file "coco" --coco_path "/myData/coco" --epoch 500 --l
 python3 inference_img.py
 ```
 
-![](pic/3e325ba8174811ea919400e04c510bc1.jpg)
 
 ```shell
 # 视频的推断
